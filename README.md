@@ -1,7 +1,5 @@
 # hello-world
 Hey!!It's ma first repository on GitHub :D
-
-# Trying explore github in-dept 
 # sample html code just to try
 <!DOCTYPE html>
 <html>
